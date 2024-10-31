@@ -9,7 +9,8 @@ pipeline {
         }
         stage('Stage-2 , Git clone scm') {
             steps {
-                git branch: 'main', url: 'https://github.com/Aseemakram19/nodejs-on-ec2-youtube.git'
+                 git 'https://github.com/Aseemakram19/nodejs-on-ec2-youtube.git'
+            }
             }
         }
         stage('Stage-3 , npm install') {

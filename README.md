@@ -1,4 +1,4 @@
-# Node public repo Hello World subscribe to my channel , thanks you
+# Node JS public repo Hello World subscribe to my channel , thanks you
 
 Simple node.js app that servers  "Welcome to CLOUD ASEEM  & Credit with Thanks to - A Monk in Cloud"
 
